@@ -1,0 +1,1 @@
+start "client" cmd /k call smartrun.bat sbft.benchmark.ThroughputLatencyClient 2001 1 1000 10
